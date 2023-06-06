@@ -7,8 +7,12 @@ body
     background-color: rgba(224, 211, 26, 0.63);
 =======
     color: rgb(132, 205, 228);
+<<<<<<< HEAD
     background-color: rgba(2, 69, 107, 0.897);
 >>>>>>> header
+=======
+    background-color: rgb(94, 10, 230);
+>>>>>>> footer
     margin: 0;
     padding: 0;
 }
