@@ -3,11 +3,15 @@ body
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: rgb(132, 205, 228);
-    background-color: rgb(35, 90, 122);
+    background-color: rgba(2, 69, 107, 0.897);
     margin: 0;
     padding: 0;
 }
 
+header .head
+{
+    font-size: 3rem;
+}
 .container
 {
     width: 70%;
