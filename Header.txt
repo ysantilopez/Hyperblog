@@ -1,7 +1,13 @@
+<<<<<<< HEAD:vacio.txt
 Estoy relizando una nueva actualizaccion y cambios desde mi laptop para que me aparezca en la pc 
 
 
 z
+=======
+ESto es lo que hare en el proyecto dentro de mi branch header
+
+
+>>>>>>> header:Header.txt
 
 
 Este es el segundo commit que se hace 

@@ -1,13 +1,22 @@
 body
 {
-    text-align: start;
+    text-align: center;
     font-family: 'Courier New', Courier, monospace;
+<<<<<<< HEAD
     color: rgb(0, 0, 0);
     background-color: rgba(224, 211, 26, 0.63);
+=======
+    color: rgb(132, 205, 228);
+    background-color: rgba(2, 69, 107, 0.897);
+>>>>>>> header
     margin: 0;
     padding: 0;
 }
 
+header .head
+{
+    font-size: 3rem;
+}
 .container
 {
     width: 70%;
